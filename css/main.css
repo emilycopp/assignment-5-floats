@@ -51,7 +51,7 @@ nav li {
 	margin: 0;
 	border: 1pt solid #a93f35;
 	float: left;
-	width: 33.3%;
+	width: 33.333%;
 
 }
 
@@ -190,7 +190,7 @@ h3 {
 
 .legumescap {
 	margin-top: 1em;
-	margin-bottom: 8em;
+	margin-bottom: 20%;
 }
 
 .lentils {
